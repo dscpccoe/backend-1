@@ -1,0 +1,21 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "description": "First project",
+  "main": "todo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon todo"
+  },
+  "keywords": [
+    "todo",
+    "dsc"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.5"
+  }
+}
